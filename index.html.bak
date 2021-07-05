@@ -1,0 +1,67 @@
+<html><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- PAGE settings -->
+  <title>Code Crimson</title>
+  <meta name="description" content="software development">
+  <meta name="keywords" content="codecrimson">
+  <!-- CSS dependencies -->
+  <link rel="stylesheet" href="theme.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
+  </head><body class="text-center">
+  <!-- Navbar -->
+  
+  <!-- Cover -->
+  <div class="d-flex align-items-center section-aquamarine py-5" style="background-image: url(assets/background.jpg);">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-white mt-5">
+          <h1 class="display-2 d-none d-md-block">Code Crimson</h1>
+          <p class="">Software Development by Mohamed Nur</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Speakers -->
+  <div class="bg-light py-0" id="speakers">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h1>Projects</h1>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12">
+          <a href="https://www.somtrust.com" target="_blank">
+            <img src="assets/somtrust.png"  width="300" height="300">
+            <h3 class="mb-0"><b>Somtrust</b></h3>
+            <p class="text-muted">React + NodeJS</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h3>Follow</h3>
+          <a href="https://github.com/codecrimson" target="blank"><i class="fa fa-3x fa-github text-muted m-2"></i></a>
+          <a href="https://twitter.com/0xmohamed" target="blank"><i class="fa fa-3x fa-twitter m-2 text-muted"></i></a>
+          <a href="https://www.youtube.com" target="blank"><i class="fa fa-3x text-muted fa-youtube-play m-2"></i></a>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <p class="text-muted">© Copyright 2019 Code Crimson Inc - All rights reserved. </p>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- JavaScript dependencies -->
+  <script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body></html>
