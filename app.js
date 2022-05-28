@@ -2243,7 +2243,7 @@ const dn = {
 const hn = [{
         name: "all",
         path: "/:all(.*)",
-        component: () => yt((() => __import__("./[...all].056c8878.js")), ["/assets/[...all].056c8878.js"]),
+        component: () => yt((() => __import__("./[...all].056c8878.js")), ["/assets/[...all].056c8878.js", "/assets/vendor.js"]),
         props: !0,
         meta: {
             layout: 404
@@ -2488,7 +2488,7 @@ er.render = function(e, t) {
     return _(), y("main", tr, [b(n), b(r), b(a)])
 };
 const nr = {
-    404: () => yt((() => __import__("./404.0eaf5373.js")), ["/assets/404.0eaf5373.js"]),
+    404: () => yt((() => __import__("./404.0eaf5373.js")), ["/assets/404.0eaf5373.js", "/assets/vendor.js"]),
     default: er
 };
 var rr, ar;
