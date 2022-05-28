@@ -1975,23 +1975,6 @@ const _t = {},
             })) : void 0
         }))).then((() => e()))
     };
-var wt = Object.freeze({
-    __proto__: null,
-    [Symbol.toStringTag]: "Module",
-    install: ({
-        isClient: e,
-        router: t
-    }) => {
-        e && t.isReady().then((async () => {
-            const {
-                registerSW: e
-            } = await yt((() => __import__("./virtual_pwa-register.b7e9bb7c.js")), void 0);
-            e({
-                immediate: !0
-            })
-        }))
-    }
-});
 const kt = {
         xmlns: "http://www.w3.org/2000/svg",
         "xmlns:xlink": "http://www.w3.org/1999/xlink",
