@@ -2101,17 +2101,17 @@ const Vt = b("h2", {
         class: "dark:text-white dark:text-opacity-50 space-y-8"
     },
     qt = S(" <div> Worked on the Covid Alert Server team. <ul> <li>Worked on the Python Covid Alert Metrics service and AWS Lambda metrics aggregator that receives millions of transactions a day.</li><li>Used Terraform to manage and provision Infrastructure as Code to development and production AWS environments.</li></ul> </div> "),
-    Ut = S(" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sed dolor non mauris dapibus pulvinar. Cras suscipit id sapien eu rhoncus. "),
-    Gt = S(" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sed dolor non mauris dapibus pulvinar. Cras suscipit id sapien eu rhoncus. "),
+    Ut = S(" the. "),
+    Gt = S(" test. "),
     Jt = b("header", {
         class: "dark:text-gray-400 text-gray-600 text-lg font-bold mb-4"
     }, " IT Security ", -1),
     Kt = {
         class: "dark:text-white dark:text-opacity-50 space-y-8"
     },
-    Zt = S(" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sed dolor non mauris dapibus pulvinar. Cras suscipit id sapien eu rhoncus. "),
-    Qt = S(" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sed dolor non mauris dapibus pulvinar. Cras suscipit id sapien eu rhoncus. "),
-    Xt = S(" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sed dolor non mauris dapibus pulvinar. Cras suscipit id sapien eu rhoncus. ");
+    Zt = S(" is. "),
+    Qt = S(" not. "),
+    Xt = S(" working. ");
 var en = w({
     expose: [],
     setup: e => (e, t) => {
@@ -2215,7 +2215,7 @@ const sn = b("h2", {
     cn = {
         class: ""
     },
-    un = S(" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sed dolor non mauris dapibus pulvinar. Cras suscipit id sapien eu rhoncus. Proin interdum convallis ex, tristique egestas augue ultrices nec. ");
+    un = S(" <ul> <li>Full stack web application created using ReactJS, NodeJS, and MongoDB to solve a gap in the Africa’s real-estate online marketplace.</li><li>Developed the majority of the NodeJS RESTful API and heavily contributed to the base front-end architecture.</li><li>Developed the Jenkin’s DevOps pipeline to continuously deploy to Production</li><li>Architected and built the Amazon infrastructure. Let's Encrypt auto renewal, automated database backups, and custom health check scripting</li></ul> ");
 var mn = w({
     expose: [],
     setup: e => (e, t) => {
