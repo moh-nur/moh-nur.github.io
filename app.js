@@ -2243,7 +2243,7 @@ const dn = {
 const hn = [{
         name: "all",
         path: "/:all(.*)",
-        component: () => yt((() => __import__("./[...all].056c8878.js")), ["/assets/[...all].056c8878.js", "/assets/vendor.js"]),
+        component: () => yt((() => __import__("./[...all].056c8878.js")), ["/assets/[...all].056c8878.js"]),
         props: !0,
         meta: {
             layout: 404
