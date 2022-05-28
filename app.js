@@ -14,42 +14,6 @@ var e = Object.defineProperty,
             for (var l of n(o)) r.call(o, l) && a(e, l, o[l]);
         return e
     };
-import {
-    i as l,
-    o as s,
-    a as i,
-    b as c,
-    r as u,
-    g as m,
-    c as d,
-    w as p,
-    h as f,
-    F as g,
-    d as b,
-    T as h,
-    n as v,
-    e as _,
-    f as y,
-    j as w,
-    t as k,
-    k as x,
-    l as z,
-    m as S,
-    p as M,
-    q as C,
-    s as F,
-    u as O,
-    v as j,
-    x as L,
-    y as W,
-    z as D,
-    A as P,
-    B as I,
-    C as T,
-    D as A,
-    E as R,
-    V as H
-} from "./vendor.js";
 ! function(e = ".", t = "__import__") {
     try {
         self[t] = new Function("u", "return import(u)")
