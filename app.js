@@ -2100,7 +2100,7 @@ const Vt = b("h2", {
     Yt = {
         class: "dark:text-white dark:text-opacity-50 space-y-8"
     },
-    qt = S(" <div> Worked on the Covid Alert Server team. <ul> <li>Worked on the Python Covid Alert Metrics service and AWS Lambda metrics aggregator that receives millions of transactions a day.</li><li>Used Terraform to manage and provision Infrastructure as Code to development and production AWS environments.</li></ul> </div> "),
+    qt = S(" Worked on the Covid Alert Server team.\n\n• Worked on the Python Covid Alert Metrics service and AWS Lambda metrics aggregator that receives millions of transactions a day.\n\n\•Used Terraform to manage and provision Infrastructure as Code to development and production AWS environments. "),
     Ut = S(" the. "),
     Gt = S(" test. "),
     Jt = b("header", {
