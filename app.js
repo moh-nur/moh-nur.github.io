@@ -2488,7 +2488,7 @@ er.render = function(e, t) {
     return _(), y("main", tr, [b(n), b(r), b(a)])
 };
 const nr = {
-    404: () => yt((() => __import__("./404.0eaf5373.js")), ["/assets/404.0eaf5373.js", "/assets/vendor.js"]),
+    404: () => yt((() => __import__("./404.0eaf5373.js")), ["/assets/404.0eaf5373.js"]),
     default: er
 };
 var rr, ar;
