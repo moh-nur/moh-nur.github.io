@@ -49,7 +49,7 @@ import {
     D as A,
     E as R,
     V as H
-} from "./vendor.577be4fd.js";
+} from "./vendor.js";
 ! function(e = ".", t = "__import__") {
     try {
         self[t] = new Function("u", "return import(u)")
@@ -2279,7 +2279,7 @@ const dn = {
 const hn = [{
         name: "all",
         path: "/:all(.*)",
-        component: () => yt((() => __import__("./[...all].056c8878.js")), ["/assets/[...all].056c8878.js", "/assets/vendor.577be4fd.js"]),
+        component: () => yt((() => __import__("./[...all].056c8878.js")), ["/assets/[...all].056c8878.js", "/assets/vendor.js"]),
         props: !0,
         meta: {
             layout: 404
@@ -2524,7 +2524,7 @@ er.render = function(e, t) {
     return _(), y("main", tr, [b(n), b(r), b(a)])
 };
 const nr = {
-    404: () => yt((() => __import__("./404.0eaf5373.js")), ["/assets/404.0eaf5373.js", "/assets/vendor.577be4fd.js"]),
+    404: () => yt((() => __import__("./404.0eaf5373.js")), ["/assets/404.0eaf5373.js", "/assets/vendor.js"]),
     default: er
 };
 var rr, ar;
