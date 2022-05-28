@@ -2551,8 +2551,7 @@ H(w({
 }, (e => {
     Object.values({
         "./modules/i18n.ts": bt,
-        "./modules/nprogress.ts": ht,
-        "./modules/pwa.ts": wt
+        "./modules/nprogress.ts": ht
     }).map((t => {
         var n;
         return null == (n = t.install) ? void 0 : n.call(t, e)
