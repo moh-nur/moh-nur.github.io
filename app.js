@@ -2259,7 +2259,7 @@ const dn = {
             "min-height": "calc(100vh - 5.5rem * 2)"
         }
     },
-    gn = S(" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor orci neque, eget dapibus metus pellentesque et. Nullam metus eros, vehicula ac est pulvinar, posuere dapibus orci. Suspendisse posuere ullamcorper ligula, quis laoreet velit ultrices at. Sed nunc sem, euismod ut ligula eu, vehicula lobortis ex. "),
+    gn = S(" My name is Mohamed Nur! I'm a Software Developer and Security Engineer based in Ottawa. "),
     bn = b("div", {
         class: "grid min-h-75 -lg:row-start-1 mt-12 lg:mt-0 relative place-content-center place-items-center"
     }, [b("div", {
